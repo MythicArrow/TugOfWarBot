@@ -17,4 +17,4 @@ w = bottom_right.x - x
 h = bottom_right.y - y
 
 print(f"REGION = ({x}, {y}, {w}, {h})")
-Coord = (x,y,w,h)
+Region = (x,y,w,h)
