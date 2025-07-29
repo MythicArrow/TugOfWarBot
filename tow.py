@@ -3,6 +3,7 @@ import numpy as np
 import cv2
 import time
 from pynput.keyboard import Controller
+from calib import Region
 
 # Change this after using calibration script
 REGION = (x, y, w, h)  # (left, top, width, height)
